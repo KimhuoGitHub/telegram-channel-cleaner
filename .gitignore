@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Telegram session files (contains your login — never commit!)
+*.session
+*.session-journal
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Virtual environment
+venv/
+.venv/
+env/
